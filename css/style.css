@@ -24,7 +24,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
 }
+
+.content-2{
+    background-color: rgb(0, 128, 255);
+    height: 50px;
+    border: 1px solid #fff;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
 
 .inner-content{
     background-color: rgb(0, 255, 13);
@@ -36,4 +50,8 @@
     align-items: center;
     justify-content: center;
     
+}
+
+.mt-50px{
+    margin-top: 50px;
 }

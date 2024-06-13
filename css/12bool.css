@@ -33,6 +33,7 @@
     max-width:  calc((100% / 12) * 6);
     padding: 7px;
     background-color: rgb(0, 128, 255);
+    border: 1px solid #fff;
 }
 
 .col-7{
